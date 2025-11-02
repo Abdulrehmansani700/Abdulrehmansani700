@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **Data Pipeline Projects and Open Source Cloud Solutions**
 - 🤔 I’m looking for help with **optimizing ETL workflows and data modeling techniques**
 - 💬 Ask me about **Python, SQL, Cloud Architecture, or Data Engineering Roadmap**
-- 📫 How to reach me: **abdulrehmansani700@gmail.com**
+- 📫 How to reach me: **abdulrehmansani17@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love solving data problems and dream to become a PAF Pilot with strong tech skills!**
 -->
