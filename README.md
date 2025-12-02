@@ -74,7 +74,7 @@ My goal is to design scalable data pipelines and cloud-based solutions that turn
 
 ---
 
-## 🇵🇰 Urdu Introduction  
+## 🇵🇰 Urdu Introduction  :
 **عبدالرحمٰن ثانی** ایک محنتی اور جستجو رکھنے والے طالب علم ہیں جو ڈیٹا انجینئرنگ، کلاؤڈ ٹیکنالوجیز اور پروگرامنگ میں اپنی مہارت بڑھا رہے ہیں۔  
 ان کا مقصد پاک فضائیہ کے لیے ایک باصلاحیت انجینئر اور پائلٹ کے طور پر ملک کی خدمت کرنا ہے۔  
 
