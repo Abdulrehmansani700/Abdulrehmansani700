@@ -19,10 +19,7 @@ Here are some ideas to get you started:
 Driven by curiosity and discipline, I’m currently learning and building projects in **Data Engineering, Python, and Cloud Technologies.**  
 My goal is to design scalable data pipelines and cloud-based solutions that turn data into powerful insights.  
 
-![My GitHub Banner] 
-<div align="center"> <img src=Black and Purple Gradient Modern Data Analyst Presentation.png" alt="Abdul Rehman Sani - Cloud Data Engineer Banner" width="100%">
-</div>
-
+![My GitHub Banner](https://github.com/Abdulrehmansani700/Abdulrehmansani700/blob/main/Black and Purple Gradient Modern Data Analyst Presentation.png)
 ---
 
 ## 🛠️ Technical Skills
