@@ -20,7 +20,7 @@ Driven by curiosity and discipline, I’m currently learning and building projec
 My goal is to design scalable data pipelines and cloud-based solutions that turn data into powerful insights.  
 
 ![My GitHub Banner]<div align="center">
-  <img src="E:\New folder/Black and Purple Gradient Modern Data Analyst Presentation.jpg" alt="Abdul Rehman Sani - Cloud Data Engineer Banner" width="100%">
+  <img src="Black and Purple Gradient Modern Data Analyst Presentation.jpg" alt="Abdul Rehman Sani - Cloud Data Engineer Banner" width="100%">
 </div>
 
 ---
