@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" alt="Abdul Rehman Sani - Cloud Data Engineer Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Abdulrehmansani700/Abdulrehmansani700/main/assets/banner.png" alt="Abdul Rehman Sani - Cloud Data Engineer Banner" width="100%">
 </div>
 
 <div align="center">
@@ -96,6 +96,10 @@ Live weather data pipeline pulling from the OpenWeatherMap API through Python an
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulrehmansani700&theme=react-dark&bg_color=0D1117&color=00AFFF&line=00F0FF&point=FFFFFF&hide_border=true" width="90%"/>
+</div>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/00AFFF/Abdulrehmansani700" alt="Abdul Rehman Sani's Contribution Graph" width="90%"/>
 </div>
 
 ---
