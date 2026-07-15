@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Abdulrehmansani700/Abdulrehmansani700/main/assets/banner.png" alt="Abdul Rehman Sani - Cloud Data Engineer Banner" width="100%">
+ <img src="https://raw.githubusercontent.com/Abdulrehmansani700/Abdulrehmansani700/main/banner.png" alt="..." width="100%">
 </div>
 
 <div align="center">
