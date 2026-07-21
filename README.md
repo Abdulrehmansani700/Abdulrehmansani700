@@ -1,5 +1,5 @@
 <div align="center">
- <img <img src="https://raw.githubusercontent.com/Abdulrehmansani700/Abdulrehmansani700/main/banner.svg" alt="..." width="100%">..." width="100%">
+ <img src="https://raw.githubusercontent.com/Abdulrehmansani700/Abdulrehmansani700/main/banner.svg" alt="..." width="100%"> 
 </div>
 
 <div align="center">
